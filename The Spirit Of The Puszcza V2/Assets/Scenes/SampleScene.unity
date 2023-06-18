@@ -252,6 +252,8 @@ MonoBehaviour:
   speed: 5
   rigidbody: {fileID: 329209979}
   animator: {fileID: 329209983}
+  obj: {fileID: 329209981}
+  maincamera: {fileID: 642068041}
 --- !u!95 &329209983
 Animator:
   serializedVersion: 5
